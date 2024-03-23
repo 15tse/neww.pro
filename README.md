@@ -1,5 +1,5 @@
 # neww.pro
-A developer's daily activities can vary widely based on the project they are working on, their role within the team, and the stage of development the project is in. However, a typical day often involves several common interactions with Git, a distributed version control system that helps developers manage changes to source code and collaborate with others. Below is a step-by-step guide to a developer's daily activities involving Git, assuming the developer is contributing to a project with an established codebase.
+A softwer developer's daily activities can vary widely based on the project they are working on, their role within the team, and the stage of development the project is in. However, a typical day often involves several common interactions with Git, a distributed version control system that helps developers manage changes to source code and collaborate with others. Below is a step-by-step guide to a developer's daily activities involving Git, assuming the developer is contributing to a project with an established codebase.
 
 1. Start the Day by Syncing Your Code
 a. Fetch Changes from the Remote Repository
